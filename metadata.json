@@ -1,0 +1,6 @@
+{
+  "name": "Gas Delivery",
+  "description": "Gas cylinder delivery tracking and customer Udhaar khata ledger management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
